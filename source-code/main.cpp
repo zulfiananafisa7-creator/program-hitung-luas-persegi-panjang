@@ -7,20 +7,21 @@ using namespace std;
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
-// Nama Lengkap :
-// Kelas        :
-// Nomor Absen  :
+// Nama Lengkap : NAFISA ZULFIANA PUTRI
+// Kelas        : XII.7
+// Nomor Absen  : 25
 // Judul Program:
 
 int main() {
 
     // 1. DEKLARASI VARIABEL
-    // Deklarasikan variabel yang diperlukan.
+        float L,p,l;
 
 
     // 2. INPUT
-    // Tuliskan perintah untuk menerima data
-    // dari pengguna menggunakan cin atau getline.
+        cout <<"masukan nilai panjang:";
+        cin >>p;
+  
 
 
     // 3. PROSES
@@ -35,4 +36,3 @@ int main() {
 
 
     return 0;
-}
